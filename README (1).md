@@ -155,8 +155,8 @@ No known bugs at this time.
 
 ## Authors
 Inyang Ukpong - [Github](https://github.com/inyangukpong) / [Twitter](https://twitter.com/inyangDesigns)  
+Josephine Wilson - [Github](https://github.com/Hameshh) / [Twitter](https://twitter.com/#)  
 
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
